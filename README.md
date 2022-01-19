@@ -1,5 +1,5 @@
 # discord-kick-bot
-### A Discord bot for kick users in specific voice channels
+### A Discord bot for kick users who is in specific voice channels
 
 ---
 
