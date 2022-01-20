@@ -1,1 +1,1 @@
-web: python3 ./src/kick-bot-main.py
+worker: python3 ./src/kick-bot-main.py
