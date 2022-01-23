@@ -12,3 +12,6 @@ There is six variables in '.env' file:
 * MESSAGE_CHANNEL is a Discord Text Channel where kick message will be send when member kicked.
 * KICK_MESSAGE is a message which is extra message to send when member kicked.
 * KICK_PRIVATE_MESSAGE is a message which is extra message to send kicked member when member kicked.
+* DAILY_MESSAGE_TIME is the time which is daily message send at.
+* DAILY_MESSAGE_CHANNEL is a Discord Text Channel where daily message will be send at the time.
+* DAILY_MESSAGE is a message which will send when member kicked.
